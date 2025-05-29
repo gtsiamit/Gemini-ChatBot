@@ -22,6 +22,7 @@ Gemini-ChatBot
    ├─ chatbot_backend.py   # Core chatbot class with Gemini API integration
    ├─ config_example.json   # Template config file to be copied and filled with API key and model
    ├─ media
+   │  └─ AI_ChatBot.gif   # Demo of the chatbot in action
    ├─ requirements.txt   # Python dependencies
    └─ utils.py   # Helper functions
 ```
